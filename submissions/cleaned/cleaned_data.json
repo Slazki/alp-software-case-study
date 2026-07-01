@@ -1,0 +1,1321 @@
+{
+  "associations": [
+    {
+      "hoa_code": "SR-01",
+      "association_name": "Maplewood Terrace Owners Association",
+      "city": "Riverton",
+      "state_code": "CA",
+      "unit_count": 48,
+      "monthly_dues": "285.00",
+      "fiscal_year_end_month": 12,
+      "reserve_balance": "142500.00",
+      "last_reserve_study": "2023-04-12",
+      "last_reserve_study_precision": "day",
+      "has_reserve_study": true,
+      "board_email": "board@maplewoodterrace.example"
+    },
+    {
+      "hoa_code": "SR-02",
+      "association_name": "Cedar Hollow Condominiums, Inc.",
+      "city": "Lakeside",
+      "state_code": "CA",
+      "unit_count": null,
+      "monthly_dues": "310.00",
+      "fiscal_year_end_month": 12,
+      "reserve_balance": "98750.00",
+      "last_reserve_study": "2022-04-01",
+      "last_reserve_study_precision": "month",
+      "has_reserve_study": true,
+      "board_email": "cedarhollowhoa@example.com"
+    },
+    {
+      "hoa_code": "SR-03",
+      "association_name": "Sunfield Villas HOA",
+      "city": "Riverton",
+      "state_code": "CA",
+      "unit_count": 72,
+      "monthly_dues": "340.00",
+      "fiscal_year_end_month": 12,
+      "reserve_balance": null,
+      "last_reserve_study": null,
+      "last_reserve_study_precision": "unknown",
+      "has_reserve_study": false,
+      "board_email": null
+    },
+    {
+      "hoa_code": "SR-04",
+      "association_name": "The Beacon Pointe Association",
+      "city": "Bay Harbor",
+      "state_code": "CA",
+      "unit_count": 120,
+      "monthly_dues": "415.00",
+      "fiscal_year_end_month": 6,
+      "reserve_balance": "512000.00",
+      "last_reserve_study": "2024-03-01",
+      "last_reserve_study_precision": "month",
+      "has_reserve_study": true,
+      "board_email": "info@beaconpointe.example"
+    },
+    {
+      "hoa_code": "SR-05",
+      "association_name": "Orchard Glen Homeowners Assn",
+      "city": "Lakeside",
+      "state_code": "CA",
+      "unit_count": 36,
+      "monthly_dues": "255.00",
+      "fiscal_year_end_month": 12,
+      "reserve_balance": "61200.00",
+      "last_reserve_study": "2021-09-01",
+      "last_reserve_study_precision": "day",
+      "has_reserve_study": true,
+      "board_email": "board@orchardglen.example"
+    },
+    {
+      "hoa_code": "SR-06",
+      "association_name": "Stonebridge Commons",
+      "city": "Bay Harbor",
+      "state_code": "CA",
+      "unit_count": null,
+      "monthly_dues": "0.00",
+      "fiscal_year_end_month": 12,
+      "reserve_balance": null,
+      "last_reserve_study": null,
+      "last_reserve_study_precision": "unknown",
+      "has_reserve_study": false,
+      "board_email": "stonebridge@example.com"
+    },
+    {
+      "hoa_code": "SR-07",
+      "association_name": "Harborview Heights Owners Association, Inc.",
+      "city": "Bay Harbor",
+      "state_code": "CA",
+      "unit_count": 94,
+      "monthly_dues": "390.00",
+      "fiscal_year_end_month": 12,
+      "reserve_balance": "378900.00",
+      "last_reserve_study": "2024-01-15",
+      "last_reserve_study_precision": "day",
+      "has_reserve_study": true,
+      "board_email": "hello@harborviewheights.example"
+    },
+    {
+      "hoa_code": "SR-08",
+      "association_name": "Willow Creek Estates",
+      "city": "Greenvale",
+      "state_code": "CA",
+      "unit_count": 28,
+      "monthly_dues": "220.00",
+      "fiscal_year_end_month": 3,
+      "reserve_balance": "44000.00",
+      "last_reserve_study": "2020-06-30",
+      "last_reserve_study_precision": "day",
+      "has_reserve_study": true,
+      "board_email": null
+    },
+    {
+      "hoa_code": "SR-09",
+      "association_name": "Pinecrest Gardens Condo Assoc.",
+      "city": "Greenvale",
+      "state_code": "CA",
+      "unit_count": 55,
+      "monthly_dues": "300.00",
+      "fiscal_year_end_month": 12,
+      "reserve_balance": null,
+      "last_reserve_study": null,
+      "last_reserve_study_precision": "unknown",
+      "has_reserve_study": false,
+      "board_email": "pinecrest@example.com"
+    },
+    {
+      "hoa_code": "SR-10",
+      "association_name": "Lantern Bay Community Association",
+      "city": "Bay Harbor",
+      "state_code": "CA",
+      "unit_count": 140,
+      "monthly_dues": "460.00",
+      "fiscal_year_end_month": 9,
+      "reserve_balance": "690250.00",
+      "last_reserve_study": "2023-11-20",
+      "last_reserve_study_precision": "day",
+      "has_reserve_study": true,
+      "board_email": "board@lanternbay.example"
+    },
+    {
+      "hoa_code": "SR-11",
+      "association_name": "Aspen Ridge HOA",
+      "city": "Riverton",
+      "state_code": "CA",
+      "unit_count": 40,
+      "monthly_dues": "275.00",
+      "fiscal_year_end_month": 12,
+      "reserve_balance": "88000.00",
+      "last_reserve_study": "2022-02-14",
+      "last_reserve_study_precision": "day",
+      "has_reserve_study": true,
+      "board_email": "aspenridge@example.com"
+    },
+    {
+      "hoa_code": "SR-12",
+      "association_name": "Tidewater Townhomes Owners Assn",
+      "city": "Lakeside",
+      "state_code": "CA",
+      "unit_count": 66,
+      "monthly_dues": "355.00",
+      "fiscal_year_end_month": null,
+      "reserve_balance": "201400.00",
+      "last_reserve_study": "2024-03-05",
+      "last_reserve_study_precision": "day",
+      "has_reserve_study": true,
+      "board_email": null
+    }
+  ],
+  "board_members": [
+    {
+      "hoa_code": "SR-01",
+      "full_name": "Alex Tanaka",
+      "role": "President",
+      "email": "alex.tanaka@example.com",
+      "term_start": "2023-07-01",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-01",
+      "full_name": "Reese Patel",
+      "role": "Vice President",
+      "email": "reese.patel@example.com",
+      "term_start": "2024-01-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-01",
+      "full_name": "Alex Nguyen",
+      "role": "Treasurer",
+      "email": null,
+      "term_start": "2023-07-01",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-02",
+      "full_name": "Reese Webb",
+      "role": "President",
+      "email": "reese.webb@example.com",
+      "term_start": "2024-06-15",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-02",
+      "full_name": "Jamie Flores",
+      "role": "Vice President",
+      "email": "jamie.flores@example.com",
+      "term_start": "2024-01-01",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-02",
+      "full_name": "Reese Brooks",
+      "role": "Treasurer",
+      "email": "reese.brooks@example.com",
+      "term_start": "2023-07-01",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-02",
+      "full_name": "Skyler Reyes",
+      "role": "Secretary",
+      "email": null,
+      "term_start": "2024-06-15",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-02",
+      "full_name": "Taylor Silva",
+      "role": "Member at Large",
+      "email": "taylor.silva@example.com",
+      "term_start": "2025-01-01",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-03",
+      "full_name": "Drew Patel",
+      "role": "President",
+      "email": "drew.patel@example.com",
+      "term_start": "2024-06-15",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-03",
+      "full_name": "Drew Johnson",
+      "role": "Vice President",
+      "email": "drew.johnson@example.com",
+      "term_start": "2025-01-01",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-03",
+      "full_name": "Reese Patel",
+      "role": "Treasurer",
+      "email": null,
+      "term_start": "2023-07-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-03",
+      "full_name": "Jordan Silva",
+      "role": "Secretary",
+      "email": "jordan.silva@example.com",
+      "term_start": "2024-01-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-03",
+      "full_name": "Riley Cole",
+      "role": "Member at Large",
+      "email": "riley.cole@example.com",
+      "term_start": "2025-01-01",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-04",
+      "full_name": "Taylor Kim",
+      "role": "President",
+      "email": "taylor.kim@example.com",
+      "term_start": "2024-01-01",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-04",
+      "full_name": "Drew Tanaka",
+      "role": "Vice President",
+      "email": "drew.tanaka@example.com",
+      "term_start": "2024-06-15",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-04",
+      "full_name": "Riley Hughes",
+      "role": "Treasurer",
+      "email": "riley.hughes@example.com",
+      "term_start": "2023-07-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-04",
+      "full_name": "Devon Okafor",
+      "role": "Secretary",
+      "email": "devon.okafor@example.com",
+      "term_start": "2023-07-01",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-04",
+      "full_name": "Skyler Reyes",
+      "role": "Member at Large",
+      "email": "skyler.reyes@example.com",
+      "term_start": "2024-01-01",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-05",
+      "full_name": "Morgan Webb",
+      "role": "President",
+      "email": "morgan.webb@example.com",
+      "term_start": "2024-06-15",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-05",
+      "full_name": "Riley Garcia",
+      "role": "Vice President",
+      "email": "riley.garcia@example.com",
+      "term_start": "2025-01-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-05",
+      "full_name": "Harper Flores",
+      "role": "Treasurer",
+      "email": "harper.flores@example.com",
+      "term_start": "2023-07-01",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-05",
+      "full_name": "Drew Cole",
+      "role": "Secretary",
+      "email": null,
+      "term_start": "2024-01-01",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-05",
+      "full_name": "Casey Webb",
+      "role": "Member at Large",
+      "email": "casey.webb@example.com",
+      "term_start": "2024-06-15",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-06",
+      "full_name": "Sam Flores",
+      "role": "President",
+      "email": "sam.flores@example.com",
+      "term_start": "2025-01-01",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-06",
+      "full_name": "Avery Tanaka",
+      "role": "Vice President",
+      "email": null,
+      "term_start": "2025-01-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-06",
+      "full_name": "Jordan Johnson",
+      "role": "Treasurer",
+      "email": "jordan.johnson@example.com",
+      "term_start": "2024-06-15",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-06",
+      "full_name": "Reese Hughes",
+      "role": "Secretary",
+      "email": "reese.hughes@example.com",
+      "term_start": "2023-07-01",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-06",
+      "full_name": "Devon Webb",
+      "role": "Member at Large",
+      "email": "devon.webb@example.com",
+      "term_start": "2023-07-01",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-07",
+      "full_name": "Skyler Garcia",
+      "role": "President",
+      "email": "skyler.garcia@example.com",
+      "term_start": "2024-01-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-07",
+      "full_name": "Jamie Nguyen",
+      "role": "Vice President",
+      "email": null,
+      "term_start": "2025-01-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-07",
+      "full_name": "Morgan Nguyen",
+      "role": "Treasurer",
+      "email": "morgan.nguyen@example.com",
+      "term_start": "2024-01-01",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-07",
+      "full_name": "Reese Cole",
+      "role": "Secretary",
+      "email": "reese.cole@example.com",
+      "term_start": "2023-07-01",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-07",
+      "full_name": "Avery Cole",
+      "role": "Member at Large",
+      "email": "avery.cole@example.com",
+      "term_start": "2023-07-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-08",
+      "full_name": "Morgan Hughes",
+      "role": "President",
+      "email": "morgan.hughes@example.com",
+      "term_start": "2023-07-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-08",
+      "full_name": "Sam Webb",
+      "role": "Vice President",
+      "email": "sam.webb@example.com",
+      "term_start": "2024-06-15",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-08",
+      "full_name": "Jordan Kim",
+      "role": "Treasurer",
+      "email": "jordan.kim@example.com",
+      "term_start": "2025-01-01",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-08",
+      "full_name": "Quinn Ramos",
+      "role": "Secretary",
+      "email": "quinn.ramos@example.com",
+      "term_start": "2023-07-01",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-08",
+      "full_name": "Jordan Tanaka",
+      "role": "Member at Large",
+      "email": "jordan.tanaka@example.com",
+      "term_start": "2023-07-01",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-09",
+      "full_name": "Devon Reyes",
+      "role": "President",
+      "email": null,
+      "term_start": "2023-07-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-09",
+      "full_name": "Avery Cole",
+      "role": "Vice President",
+      "email": "avery.cole@example.com",
+      "term_start": "2023-07-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-09",
+      "full_name": "Morgan Okafor",
+      "role": "Treasurer",
+      "email": "morgan.okafor@example.com",
+      "term_start": "2024-06-15",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-10",
+      "full_name": "Jordan Webb",
+      "role": "President",
+      "email": "jordan.webb@example.com",
+      "term_start": "2024-06-15",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-10",
+      "full_name": "Jamie Silva",
+      "role": "Vice President",
+      "email": "jamie.silva@example.com",
+      "term_start": "2024-01-01",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-10",
+      "full_name": "Sam Tanaka",
+      "role": "Treasurer",
+      "email": "sam.tanaka@example.com",
+      "term_start": "2024-01-01",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-11",
+      "full_name": "Morgan Ramos",
+      "role": "President",
+      "email": "morgan.ramos@example.com",
+      "term_start": "2024-06-15",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-11",
+      "full_name": "Riley Cole",
+      "role": "Vice President",
+      "email": "riley.cole@example.com",
+      "term_start": "2024-01-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-11",
+      "full_name": "Skyler Silva",
+      "role": "Treasurer",
+      "email": "skyler.silva@example.com",
+      "term_start": "2024-01-01",
+      "term_end": "2026-01-01"
+    },
+    {
+      "hoa_code": "SR-11",
+      "full_name": "Avery Ramos",
+      "role": "Secretary",
+      "email": "avery.ramos@example.com",
+      "term_start": "2024-01-01",
+      "term_end": "2025-07-01"
+    },
+    {
+      "hoa_code": "SR-11",
+      "full_name": "Casey Brooks",
+      "role": "Member at Large",
+      "email": "casey.brooks@example.com",
+      "term_start": "2023-07-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-12",
+      "full_name": "Casey Brooks",
+      "role": "President",
+      "email": null,
+      "term_start": "2024-06-15",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-12",
+      "full_name": "Harper Okafor",
+      "role": "Vice President",
+      "email": "harper.okafor@example.com",
+      "term_start": "2025-01-01",
+      "term_end": null
+    },
+    {
+      "hoa_code": "SR-12",
+      "full_name": "Reese Tanaka",
+      "role": "Treasurer",
+      "email": "reese.tanaka@example.com",
+      "term_start": "2024-06-15",
+      "term_end": "2025-07-01"
+    }
+  ],
+  "vendors": [
+    {
+      "canonical_key": "email:estimates@titanpaving.example",
+      "canonical_name": "Titan Paving",
+      "trade": "Asphalt/Paving",
+      "phone_e164": "+15552456610",
+      "phone_display": "(555) 245-6610",
+      "email": "estimates@titanpaving.example",
+      "coi_on_file": false,
+      "service_area": [
+        "Bay Harbor"
+      ]
+    },
+    {
+      "canonical_key": "email:office@reliableelec.example",
+      "canonical_name": "Reliable Electric",
+      "trade": "Electrical",
+      "phone_e164": "+15559094521",
+      "phone_display": "(555) 909-4521",
+      "email": "office@reliableelec.example",
+      "coi_on_file": true,
+      "service_area": [
+        "Riverton"
+      ]
+    },
+    {
+      "canonical_key": "email:contact@brightpathscapes.example",
+      "canonical_name": "Bright Path Landscaping",
+      "trade": "Landscaping",
+      "phone_e164": "+15552013344",
+      "phone_display": "(555) 201-3344",
+      "email": "contact@brightpathscapes.example",
+      "coi_on_file": true,
+      "service_area": [
+        "Bay Harbor",
+        "Riverton"
+      ]
+    },
+    {
+      "canonical_key": "email:book@greenleafpest.example",
+      "canonical_name": "GreenLeaf Pest Control",
+      "trade": "Pest Control",
+      "phone_e164": "+15556107733",
+      "phone_display": "(555) 610-7733",
+      "email": "book@greenleafpest.example",
+      "coi_on_file": true,
+      "service_area": [
+        "Greenvale",
+        "Lakeside"
+      ]
+    },
+    {
+      "canonical_key": "email:dispatch@coastlineplumb.example",
+      "canonical_name": "Coastline Plumbing",
+      "trade": "Plumbing",
+      "phone_e164": "+15558801290",
+      "phone_display": "(555) 880-1290",
+      "email": "dispatch@coastlineplumb.example",
+      "coi_on_file": true,
+      "service_area": [
+        "Bay Harbor"
+      ]
+    },
+    {
+      "canonical_key": "email:service@aquapro.example",
+      "canonical_name": "AquaPro Pool Service",
+      "trade": "Pool Maintenance",
+      "phone_e164": "+15553321188",
+      "phone_display": "(555) 332-1188",
+      "email": "service@aquapro.example",
+      "coi_on_file": true,
+      "service_area": [
+        "Bay Harbor",
+        "Lakeside"
+      ]
+    },
+    {
+      "canonical_key": "email:jobs@summitroof.example",
+      "canonical_name": "Summit Roofing",
+      "trade": "Roofing",
+      "phone_e164": "+15557770042",
+      "phone_display": "(555) 777-0042",
+      "email": "jobs@summitroof.example",
+      "coi_on_file": false,
+      "service_area": []
+    },
+    {
+      "canonical_key": "email:dispatch@anchorsecurity.example",
+      "canonical_name": "Anchor Security Patrol",
+      "trade": "Security",
+      "phone_e164": "+15557009090",
+      "phone_display": "(555) 700-9090",
+      "email": "dispatch@anchorsecurity.example",
+      "coi_on_file": true,
+      "service_area": [
+        "Bay Harbor"
+      ]
+    },
+    {
+      "canonical_key": "email:hello@evergreentree.example",
+      "canonical_name": "Evergreen Tree Care",
+      "trade": "Tree Service",
+      "phone_e164": "+15554429981",
+      "phone_display": "(555) 442-9981",
+      "email": "hello@evergreentree.example",
+      "coi_on_file": false,
+      "service_area": [
+        "Greenvale"
+      ]
+    },
+    {
+      "canonical_key": "email:info@clearviewwc.example",
+      "canonical_name": "ClearView Window Cleaning",
+      "trade": "Window Cleaning",
+      "phone_e164": "+15551182200",
+      "phone_display": "(555) 118-2200",
+      "email": "info@clearviewwc.example",
+      "coi_on_file": true,
+      "service_area": []
+    }
+  ],
+  "vendor_aliases": [
+    {
+      "canonical_key": "email:book@greenleafpest.example",
+      "alias_name": "GreenLeaf Pest Control"
+    },
+    {
+      "canonical_key": "email:contact@brightpathscapes.example",
+      "alias_name": "Bright Path Landscaping"
+    },
+    {
+      "canonical_key": "email:contact@brightpathscapes.example",
+      "alias_name": "Bright Path Landscaping LLC"
+    },
+    {
+      "canonical_key": "email:dispatch@anchorsecurity.example",
+      "alias_name": "Anchor Security Patrol"
+    },
+    {
+      "canonical_key": "email:dispatch@coastlineplumb.example",
+      "alias_name": "Coastline Plumbing"
+    },
+    {
+      "canonical_key": "email:estimates@titanpaving.example",
+      "alias_name": "Titan Paving"
+    },
+    {
+      "canonical_key": "email:hello@evergreentree.example",
+      "alias_name": "Evergreen Tree Care"
+    },
+    {
+      "canonical_key": "email:info@clearviewwc.example",
+      "alias_name": "ClearView Window Cleaning"
+    },
+    {
+      "canonical_key": "email:jobs@summitroof.example",
+      "alias_name": "Summit Roofing Co."
+    },
+    {
+      "canonical_key": "email:office@reliableelec.example",
+      "alias_name": "Reliable Electric"
+    },
+    {
+      "canonical_key": "email:office@reliableelec.example",
+      "alias_name": "Reliable Electrical Services"
+    },
+    {
+      "canonical_key": "email:service@aquapro.example",
+      "alias_name": "AquaPro Pool Service"
+    }
+  ],
+  "association_vendors": [
+    {
+      "hoa_code": "SR-01",
+      "canonical_key": "email:contact@brightpathscapes.example"
+    },
+    {
+      "hoa_code": "SR-01",
+      "canonical_key": "email:office@reliableelec.example"
+    },
+    {
+      "hoa_code": "SR-04",
+      "canonical_key": "email:contact@brightpathscapes.example"
+    },
+    {
+      "hoa_code": "SR-04",
+      "canonical_key": "email:dispatch@anchorsecurity.example"
+    },
+    {
+      "hoa_code": "SR-04",
+      "canonical_key": "email:dispatch@coastlineplumb.example"
+    },
+    {
+      "hoa_code": "SR-04",
+      "canonical_key": "email:estimates@titanpaving.example"
+    },
+    {
+      "hoa_code": "SR-07",
+      "canonical_key": "email:contact@brightpathscapes.example"
+    },
+    {
+      "hoa_code": "SR-07",
+      "canonical_key": "email:dispatch@coastlineplumb.example"
+    },
+    {
+      "hoa_code": "SR-10",
+      "canonical_key": "email:contact@brightpathscapes.example"
+    },
+    {
+      "hoa_code": "SR-10",
+      "canonical_key": "email:dispatch@anchorsecurity.example"
+    },
+    {
+      "hoa_code": "SR-10",
+      "canonical_key": "email:dispatch@coastlineplumb.example"
+    },
+    {
+      "hoa_code": "SR-10",
+      "canonical_key": "email:service@aquapro.example"
+    },
+    {
+      "hoa_code": "SR-12",
+      "canonical_key": "email:service@aquapro.example"
+    }
+  ],
+  "data_quality_flags": [
+    {
+      "entity_type": "association",
+      "entity_key": "SR-02",
+      "field_name": "last_reserve_study",
+      "raw_value": "04/2022",
+      "cleaned_value": "2022-04-01",
+      "issue": "Month/year date stored as first day of month with month precision.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-02",
+      "field_name": "state",
+      "raw_value": "Calif.",
+      "cleaned_value": "CA",
+      "issue": "State normalized to postal code.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-02",
+      "field_name": "unit_count",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing numeric value left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-03",
+      "field_name": "last_reserve_study",
+      "raw_value": "N/A",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-03",
+      "field_name": "state",
+      "raw_value": "California",
+      "cleaned_value": "CA",
+      "issue": "State normalized to postal code.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-03",
+      "field_name": "reserve_balance",
+      "raw_value": "N/A",
+      "cleaned_value": null,
+      "issue": "Missing or placeholder money value left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-04",
+      "field_name": "last_reserve_study",
+      "raw_value": "March 2024",
+      "cleaned_value": "2024-03-01",
+      "issue": "Month/year date stored as first day of month with month precision.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-06",
+      "field_name": "last_reserve_study",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-06",
+      "field_name": "state",
+      "raw_value": "ca",
+      "cleaned_value": "CA",
+      "issue": "State normalized to postal code.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-06",
+      "field_name": "unit_count",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing numeric value left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-06",
+      "field_name": "monthly_dues",
+      "raw_value": "$0",
+      "cleaned_value": "0.00",
+      "issue": "Zero value retained but should be reviewed.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-06",
+      "field_name": "reserve_balance",
+      "raw_value": "TBD",
+      "cleaned_value": null,
+      "issue": "Missing or placeholder money value left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-09",
+      "field_name": "last_reserve_study",
+      "raw_value": "N/A",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-09",
+      "field_name": "reserve_balance",
+      "raw_value": "N/A",
+      "cleaned_value": null,
+      "issue": "Missing or placeholder money value left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "association",
+      "entity_key": "SR-12",
+      "field_name": "fiscal_year_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing fiscal year end left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-01:Reese Patel:Vice President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-01:Alex Nguyen:Treasurer",
+      "field_name": "email",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Board member email missing.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-02:Skyler Reyes:Secretary",
+      "field_name": "email",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Board member email missing.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-03:Reese Patel:Treasurer",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-03:Reese Patel:Treasurer",
+      "field_name": "email",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Board member email missing.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-03:Jordan Silva:Secretary",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-04:Drew Tanaka:Vice President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-04:Riley Hughes:Treasurer",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-05:Riley Garcia:Vice President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-05:Drew Cole:Secretary",
+      "field_name": "email",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Board member email missing.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-06:Avery Tanaka:Vice President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-06:Avery Tanaka:Vice President",
+      "field_name": "email",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Board member email missing.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-07:Skyler Garcia:President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-07:Jamie Nguyen:Vice President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-07:Jamie Nguyen:Vice President",
+      "field_name": "email",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Board member email missing.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-07:Avery Cole:Member at Large",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-08:Morgan Hughes:President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-08:Sam Webb:Vice President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-09:Devon Reyes:President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-09:Devon Reyes:President",
+      "field_name": "email",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Board member email missing.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-09:Avery Cole:Vice President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-10:Jordan Webb:President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-11:Riley Cole:Vice President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-11:Casey Brooks:Member at Large",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-12:Casey Brooks:President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-12:Casey Brooks:President",
+      "field_name": "email",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Board member email missing.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-12:Harper Okafor:Vice President",
+      "field_name": "term_end",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Missing date left null.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "board_member",
+      "entity_key": "SR-01:Alex Tanaka:President",
+      "field_name": "row",
+      "raw_value": "{'hoa_code': 'SR-01', 'full_name': 'Alex Tanaka', 'role': 'President', 'email': 'alex.tanaka@example.com', 'term_start': '2023-07-01', 'term_end': '2025-07-01'}",
+      "cleaned_value": "deduplicated",
+      "issue": "Exact duplicate board member row removed.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:hello@evergreentree.example",
+      "field_name": "serves_hoa_codes",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Intake row has no linked HOA; vendor retained as prospect if no other row links it.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:jobs@summitroof.example",
+      "field_name": "serves_hoa_codes",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Intake row has no linked HOA; vendor retained as prospect if no other row links it.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:office@reliableelec.example",
+      "field_name": "coi_on_file",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "COI value missing or unparseable.",
+      "severity": "review"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:office@reliableelec.example",
+      "field_name": "serves_hoa_codes",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Intake row has no linked HOA; vendor retained as prospect if no other row links it.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:book@greenleafpest.example",
+      "field_name": "serves_hoa_codes",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Intake row has no linked HOA; vendor retained as prospect if no other row links it.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:info@clearviewwc.example",
+      "field_name": "serves_hoa_codes",
+      "raw_value": "",
+      "cleaned_value": null,
+      "issue": "Intake row has no linked HOA; vendor retained as prospect if no other row links it.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:contact@brightpathscapes.example",
+      "field_name": "serves_hoa_codes",
+      "raw_value": "SR-01",
+      "cleaned_value": "SR-01",
+      "issue": "Duplicate vendor-HOA relationship removed.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:contact@brightpathscapes.example",
+      "field_name": "vendor_name",
+      "raw_value": "Bright Path Landscaping; Bright Path Landscaping LLC",
+      "cleaned_value": "Bright Path Landscaping",
+      "issue": "Vendor aliases merged because rows shared email or phone/trade.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:hello@evergreentree.example",
+      "field_name": "relationship_status",
+      "raw_value": null,
+      "cleaned_value": "prospect",
+      "issue": "Vendor has no HOA relationship and is retained as a prospect.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:jobs@summitroof.example",
+      "field_name": "relationship_status",
+      "raw_value": null,
+      "cleaned_value": "prospect",
+      "issue": "Vendor has no HOA relationship and is retained as a prospect.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:office@reliableelec.example",
+      "field_name": "vendor_name",
+      "raw_value": "Reliable Electric; Reliable Electrical Services",
+      "cleaned_value": "Reliable Electric",
+      "issue": "Vendor aliases merged because rows shared email or phone/trade.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:book@greenleafpest.example",
+      "field_name": "relationship_status",
+      "raw_value": null,
+      "cleaned_value": "prospect",
+      "issue": "Vendor has no HOA relationship and is retained as a prospect.",
+      "severity": "info"
+    },
+    {
+      "entity_type": "vendor",
+      "entity_key": "email:info@clearviewwc.example",
+      "field_name": "relationship_status",
+      "raw_value": null,
+      "cleaned_value": "prospect",
+      "issue": "Vendor has no HOA relationship and is retained as a prospect.",
+      "severity": "info"
+    }
+  ]
+}

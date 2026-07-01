@@ -1,0 +1,11 @@
+canonical_key,canonical_name,trade,phone_e164,phone_display,email,coi_on_file,service_area
+email:estimates@titanpaving.example,Titan Paving,Asphalt/Paving,+15552456610,(555) 245-6610,estimates@titanpaving.example,False,Bay Harbor
+email:office@reliableelec.example,Reliable Electric,Electrical,+15559094521,(555) 909-4521,office@reliableelec.example,True,Riverton
+email:contact@brightpathscapes.example,Bright Path Landscaping,Landscaping,+15552013344,(555) 201-3344,contact@brightpathscapes.example,True,Bay Harbor; Riverton
+email:book@greenleafpest.example,GreenLeaf Pest Control,Pest Control,+15556107733,(555) 610-7733,book@greenleafpest.example,True,Greenvale; Lakeside
+email:dispatch@coastlineplumb.example,Coastline Plumbing,Plumbing,+15558801290,(555) 880-1290,dispatch@coastlineplumb.example,True,Bay Harbor
+email:service@aquapro.example,AquaPro Pool Service,Pool Maintenance,+15553321188,(555) 332-1188,service@aquapro.example,True,Bay Harbor; Lakeside
+email:jobs@summitroof.example,Summit Roofing,Roofing,+15557770042,(555) 777-0042,jobs@summitroof.example,False,
+email:dispatch@anchorsecurity.example,Anchor Security Patrol,Security,+15557009090,(555) 700-9090,dispatch@anchorsecurity.example,True,Bay Harbor
+email:hello@evergreentree.example,Evergreen Tree Care,Tree Service,+15554429981,(555) 442-9981,hello@evergreentree.example,False,Greenvale
+email:info@clearviewwc.example,ClearView Window Cleaning,Window Cleaning,+15551182200,(555) 118-2200,info@clearviewwc.example,True,

@@ -1,0 +1,13 @@
+hoa_code,association_name,city,state_code,unit_count,monthly_dues,fiscal_year_end_month,reserve_balance,last_reserve_study,last_reserve_study_precision,has_reserve_study,board_email
+SR-01,Maplewood Terrace Owners Association,Riverton,CA,48,285.00,12,142500.00,2023-04-12,day,True,board@maplewoodterrace.example
+SR-02,"Cedar Hollow Condominiums, Inc.",Lakeside,CA,,310.00,12,98750.00,2022-04-01,month,True,cedarhollowhoa@example.com
+SR-03,Sunfield Villas HOA,Riverton,CA,72,340.00,12,,,unknown,False,
+SR-04,The Beacon Pointe Association,Bay Harbor,CA,120,415.00,6,512000.00,2024-03-01,month,True,info@beaconpointe.example
+SR-05,Orchard Glen Homeowners Assn,Lakeside,CA,36,255.00,12,61200.00,2021-09-01,day,True,board@orchardglen.example
+SR-06,Stonebridge Commons,Bay Harbor,CA,,0.00,12,,,unknown,False,stonebridge@example.com
+SR-07,"Harborview Heights Owners Association, Inc.",Bay Harbor,CA,94,390.00,12,378900.00,2024-01-15,day,True,hello@harborviewheights.example
+SR-08,Willow Creek Estates,Greenvale,CA,28,220.00,3,44000.00,2020-06-30,day,True,
+SR-09,Pinecrest Gardens Condo Assoc.,Greenvale,CA,55,300.00,12,,,unknown,False,pinecrest@example.com
+SR-10,Lantern Bay Community Association,Bay Harbor,CA,140,460.00,9,690250.00,2023-11-20,day,True,board@lanternbay.example
+SR-11,Aspen Ridge HOA,Riverton,CA,40,275.00,12,88000.00,2022-02-14,day,True,aspenridge@example.com
+SR-12,Tidewater Townhomes Owners Assn,Lakeside,CA,66,355.00,,201400.00,2024-03-05,day,True,

@@ -1,0 +1,57 @@
+entity_type,entity_key,field_name,raw_value,cleaned_value,issue,severity
+association,SR-02,last_reserve_study,04/2022,2022-04-01,Month/year date stored as first day of month with month precision.,info
+association,SR-02,state,Calif.,CA,State normalized to postal code.,info
+association,SR-02,unit_count,,,Missing numeric value left null.,review
+association,SR-03,last_reserve_study,N/A,,Missing date left null.,review
+association,SR-03,state,California,CA,State normalized to postal code.,info
+association,SR-03,reserve_balance,N/A,,Missing or placeholder money value left null.,review
+association,SR-04,last_reserve_study,March 2024,2024-03-01,Month/year date stored as first day of month with month precision.,info
+association,SR-06,last_reserve_study,,,Missing date left null.,review
+association,SR-06,state,ca,CA,State normalized to postal code.,info
+association,SR-06,unit_count,,,Missing numeric value left null.,review
+association,SR-06,monthly_dues,$0,0.00,Zero value retained but should be reviewed.,review
+association,SR-06,reserve_balance,TBD,,Missing or placeholder money value left null.,review
+association,SR-09,last_reserve_study,N/A,,Missing date left null.,review
+association,SR-09,reserve_balance,N/A,,Missing or placeholder money value left null.,review
+association,SR-12,fiscal_year_end,,,Missing fiscal year end left null.,review
+board_member,SR-01:Reese Patel:Vice President,term_end,,,Missing date left null.,review
+board_member,SR-01:Alex Nguyen:Treasurer,email,,,Board member email missing.,review
+board_member,SR-02:Skyler Reyes:Secretary,email,,,Board member email missing.,review
+board_member,SR-03:Reese Patel:Treasurer,term_end,,,Missing date left null.,review
+board_member,SR-03:Reese Patel:Treasurer,email,,,Board member email missing.,review
+board_member,SR-03:Jordan Silva:Secretary,term_end,,,Missing date left null.,review
+board_member,SR-04:Drew Tanaka:Vice President,term_end,,,Missing date left null.,review
+board_member,SR-04:Riley Hughes:Treasurer,term_end,,,Missing date left null.,review
+board_member,SR-05:Riley Garcia:Vice President,term_end,,,Missing date left null.,review
+board_member,SR-05:Drew Cole:Secretary,email,,,Board member email missing.,review
+board_member,SR-06:Avery Tanaka:Vice President,term_end,,,Missing date left null.,review
+board_member,SR-06:Avery Tanaka:Vice President,email,,,Board member email missing.,review
+board_member,SR-07:Skyler Garcia:President,term_end,,,Missing date left null.,review
+board_member,SR-07:Jamie Nguyen:Vice President,term_end,,,Missing date left null.,review
+board_member,SR-07:Jamie Nguyen:Vice President,email,,,Board member email missing.,review
+board_member,SR-07:Avery Cole:Member at Large,term_end,,,Missing date left null.,review
+board_member,SR-08:Morgan Hughes:President,term_end,,,Missing date left null.,review
+board_member,SR-08:Sam Webb:Vice President,term_end,,,Missing date left null.,review
+board_member,SR-09:Devon Reyes:President,term_end,,,Missing date left null.,review
+board_member,SR-09:Devon Reyes:President,email,,,Board member email missing.,review
+board_member,SR-09:Avery Cole:Vice President,term_end,,,Missing date left null.,review
+board_member,SR-10:Jordan Webb:President,term_end,,,Missing date left null.,review
+board_member,SR-11:Riley Cole:Vice President,term_end,,,Missing date left null.,review
+board_member,SR-11:Casey Brooks:Member at Large,term_end,,,Missing date left null.,review
+board_member,SR-12:Casey Brooks:President,term_end,,,Missing date left null.,review
+board_member,SR-12:Casey Brooks:President,email,,,Board member email missing.,review
+board_member,SR-12:Harper Okafor:Vice President,term_end,,,Missing date left null.,review
+board_member,SR-01:Alex Tanaka:President,row,"{'hoa_code': 'SR-01', 'full_name': 'Alex Tanaka', 'role': 'President', 'email': 'alex.tanaka@example.com', 'term_start': '2023-07-01', 'term_end': '2025-07-01'}",deduplicated,Exact duplicate board member row removed.,info
+vendor,email:hello@evergreentree.example,serves_hoa_codes,,,Intake row has no linked HOA; vendor retained as prospect if no other row links it.,info
+vendor,email:jobs@summitroof.example,serves_hoa_codes,,,Intake row has no linked HOA; vendor retained as prospect if no other row links it.,info
+vendor,email:office@reliableelec.example,coi_on_file,,,COI value missing or unparseable.,review
+vendor,email:office@reliableelec.example,serves_hoa_codes,,,Intake row has no linked HOA; vendor retained as prospect if no other row links it.,info
+vendor,email:book@greenleafpest.example,serves_hoa_codes,,,Intake row has no linked HOA; vendor retained as prospect if no other row links it.,info
+vendor,email:info@clearviewwc.example,serves_hoa_codes,,,Intake row has no linked HOA; vendor retained as prospect if no other row links it.,info
+vendor,email:contact@brightpathscapes.example,serves_hoa_codes,SR-01,SR-01,Duplicate vendor-HOA relationship removed.,info
+vendor,email:contact@brightpathscapes.example,vendor_name,Bright Path Landscaping; Bright Path Landscaping LLC,Bright Path Landscaping,Vendor aliases merged because rows shared email or phone/trade.,info
+vendor,email:hello@evergreentree.example,relationship_status,,prospect,Vendor has no HOA relationship and is retained as a prospect.,info
+vendor,email:jobs@summitroof.example,relationship_status,,prospect,Vendor has no HOA relationship and is retained as a prospect.,info
+vendor,email:office@reliableelec.example,vendor_name,Reliable Electric; Reliable Electrical Services,Reliable Electric,Vendor aliases merged because rows shared email or phone/trade.,info
+vendor,email:book@greenleafpest.example,relationship_status,,prospect,Vendor has no HOA relationship and is retained as a prospect.,info
+vendor,email:info@clearviewwc.example,relationship_status,,prospect,Vendor has no HOA relationship and is retained as a prospect.,info

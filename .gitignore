@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+submissions/qa/
+*.tmp
+*.log
+*.lnk
+/ALP_Case_Study_Submission.zip
+/ALP Software Case Study.docx
