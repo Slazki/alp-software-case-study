@@ -55,4 +55,4 @@ python scripts/build_word_docs.py
 
 ## AI-use transparency
 
-AI assistance was used to structure the schema, draft cleaning rationale, write the generator scaffolding, and draft the hypothetical automation proposal. The actual cleaning rules are deterministic code, the generated SQL is inspectable, and questionable source values are preserved in `data_quality_flags` instead of being silently hidden.
+AI assistance was used to structure the schema, draft cleaning rationale, write the generator scaffolding, and draft the hypothetical automation proposal. The actual cleaning rules are deterministic code, the generated SQL is inspectable, and questionable source values are preserved in `data_quality_flags`
