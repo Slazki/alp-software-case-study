@@ -29,8 +29,8 @@ The generated example one-pager is:
 
 The written deliverables are:
 
-- `submissions/schema_and_cleaning_rationale.docx`
-- `submissions/automation_proposal.docx`
+- `submissions/schema_and_cleaning_rationale.pdf`
+- `submissions/automation_proposal.pdf`
 
 ## What I Built
 
@@ -48,7 +48,7 @@ The project includes:
 - Cleaned CSV/JSON outputs for review.
 - A one-pager generator that reads from Supabase when configured.
 - A local fallback mode so the generator can still be tested without credentials.
-- Two Word deliverables for the written portions of the assignment.
+- Two PDF deliverables for the written portions of the assignment.
 
 ## Repository Structure
 
@@ -63,12 +63,12 @@ The project includes:
 |-- scripts/
 |   |-- clean_and_seed.py
 |   |-- load_to_supabase.py
-|   `-- build_word_docs.py
+|   `-- build_pdf_deliverables.py
 |-- one_pager/
 |   `-- generate_one_pager.py
 |-- submissions/
-|   |-- schema_and_cleaning_rationale.docx
-|   |-- automation_proposal.docx
+|   |-- schema_and_cleaning_rationale.pdf
+|   |-- automation_proposal.pdf
 |   |-- cleaned/
 |   `-- examples/
 |-- requirements.txt
@@ -177,10 +177,10 @@ Regenerate the local example one-pager:
 python one_pager/generate_one_pager.py SR-04 --source local --summary-mode fallback
 ```
 
-Regenerate the Word deliverables:
+Regenerate the PDF deliverables:
 
 ```powershell
-python scripts/build_word_docs.py
+python scripts/build_pdf_deliverables.py
 ```
 
 ## Deliverables
@@ -189,7 +189,7 @@ Task 1 and Task 2:
 
 - `supabase/schema.sql`
 - `supabase/reset_and_seed.sql`
-- `submissions/schema_and_cleaning_rationale.docx`
+- `submissions/schema_and_cleaning_rationale.pdf`
 - `submissions/cleaned/`
 
 Task 3:
@@ -200,7 +200,7 @@ Task 3:
 
 Task 4:
 
-- `submissions/automation_proposal.docx`
+- `submissions/automation_proposal.pdf`
 
 ## AI-Use Transparency
 
